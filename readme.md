@@ -5,7 +5,7 @@
 ## 安装
 
 	// clone仓库到本地
-	git clone https://github.com/liukaijv/lnode-blog.git [alias]	
+	git clone https://github.com/liukaijv/ycbx-template.git [alias]	
 	// 进入目录
 	// 安装php依赖
 	composer install
